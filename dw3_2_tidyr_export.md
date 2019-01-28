@@ -315,4 +315,4 @@ Although you might think that it is only about `{readr}`, `{tidyr}` tips and tri
 ## Resources
 
 - [Chapter about `{tidyr}` in "Modern Dive" book](http://bit.ly/2D2Bjz8) 
-- [Chapter about `{tidyr}` in "R for Data Science" book](http://bit.ly/2D2Bjz8) 
+- [Chapter about `{tidyr}` in "R for Data Science" book](http://bit.ly/2z8zZWY) 
